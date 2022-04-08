@@ -434,6 +434,9 @@ nav.main-menu {
 	float: left;
 	margin-top: 50px;
 }
+#gallery{
+    background-color: #60a9fcfb;
+}
 .images {
     width: 100%!important;
     margin-bottom: 10px;
