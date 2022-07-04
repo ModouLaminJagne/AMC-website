@@ -448,6 +448,7 @@ nav.main-menu {
 .images {
     width: 100%!important;
     margin-bottom: 10px;
+    border-radius: 5px;
     /* height: 100%!important; */
 }
 
@@ -579,15 +580,15 @@ button.main_bt a:hover { color: #fa3e19; }
 
 .copyright_taital{
 	font-weight: 18px; 
-	color: #010000;
+	color: #6d6565;
 	text-align: center;
 }
 
 .copyright_taital a{
-	color: #010000;
+	color: #6d6565;
 }
 .copyright_taital a:hover{
-	color: #f73c1d;
+	color: #9ba1f5;
 }
 
 .hello_images{ width: 100%; float: left; }
@@ -638,9 +639,13 @@ button.main_bt a:hover { color: #fa3e19; }
 }
 
 .product_section_2 .images {
-    border: solid #e7e4e3 23px;
+    border: solid #e7e4e3 10px;
+    border-radius: 5px;
 }
 
 .product_section_2 .images:hover {
     border-color: #0a77f3;
+}
+.about_section_image{
+     border-radius: 5px;
 }
